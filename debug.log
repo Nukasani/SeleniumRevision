@@ -1,1 +1,2 @@
 [0907/145745.780:ERROR:file_io.cc(135)] WriteFile: The pipe is being closed. (0xE8)
+[0916/175227.876:ERROR:file_io_win.cc(180)] CreateFile C:\Users\user\AppData\Local\Temp\scoped_dir7872_529796122\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)

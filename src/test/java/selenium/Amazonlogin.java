@@ -35,11 +35,6 @@ public class Amazonlogin
 		String z1=z.replaceAll("[^1-9]", " ");
 		String z2=z1.replace(" ","");
 		System.out.println(z+"  "+z1+" "+z2);
-		
-		
-		
- 
-		
+			
 	}
-
 }
